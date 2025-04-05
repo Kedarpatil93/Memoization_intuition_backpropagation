@@ -1,8 +1,6 @@
 # Memoization_intuition_backpropagation
 Memoization is a key concept in deep learning, especially in backpropagation, for optimizing computations. This repository illustrates this through a Fibonacci recursion example, comparing a naive approach (no memoization) with an efficient memoized version
 
-xample used below is of Fibonacci series with recursion
-
 - `fib_no_memo.py`: A classic recursive version without memoization. Time complexity: O(2^n).
 - `fib_with_memo.py`: An optimized recursive version with memoization using a dictionary. Time complexity: O(n).
 
