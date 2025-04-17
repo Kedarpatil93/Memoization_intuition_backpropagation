@@ -4,7 +4,7 @@ Memoization is a key concept in deep learning, especially in backpropagation, fo
 - `fib_no_memo.py`: A classic recursive version without memoization. Time complexity: O(2^n).
 - `fib_with_memo.py`: An optimized recursive version with memoization using a dictionary. Time complexity: O(n).
 
-Both include timing with the `time` module to compare performance.
+Both include timing with `time` module to compare performance.
 
 ## Usage
 Run each file with Python:
